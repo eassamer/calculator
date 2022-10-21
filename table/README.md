@@ -1,4 +1,4 @@
-check this: https://3-column-preview-card-mauve-eight.vercel.app/
+Go check: https://3-column-preview-card-mauve-eight.vercel.app/
 
 # Frontend Mentor - 3-column preview card component
 
